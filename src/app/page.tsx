@@ -38,7 +38,7 @@ export default function LandingPage() {
         { name: "Testimonials", id: "testimonials" },
         { name: "Contact", id: "contact" },
       ]}
-      brandName="Lumière Dining"
+      brandName="Mumbai Restaurent "
     />
   </div>
 
@@ -221,7 +221,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterLogoReveal
-      logoText="Lumière"
+      logoText="Mumbai Restaurent "
       leftLink={{ text: "© 2024 Lumière Dining", href: "#" }}
       rightLink={{ text: "Privacy Policy", href: "#" }}
     />
